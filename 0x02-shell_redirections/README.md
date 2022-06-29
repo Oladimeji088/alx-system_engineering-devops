@@ -1,1 +1,1 @@
-readme for 10-no_more_js
+Don't just count your directories, make your directories count
