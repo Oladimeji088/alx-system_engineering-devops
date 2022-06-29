@@ -1,1 +1,1 @@
-This is a readme for 0x00-shell_basics
+This is a new readme for 6-firstdirectory
