@@ -1,1 +1,1 @@
-This project Display the content of the /etc/passwd file.
+This is readme is for the No.3 project
