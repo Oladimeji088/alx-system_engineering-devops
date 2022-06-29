@@ -1,1 +1,1 @@
-readme for 9-duplicate_last_line
+readme for 10-no_more_js
