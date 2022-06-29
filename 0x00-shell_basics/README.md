@@ -1,1 +1,1 @@
-A readme for project 5-listfilesdigitonly
+This is a readme for 0x00-shell_basics
