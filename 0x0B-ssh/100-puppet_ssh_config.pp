@@ -28,6 +28,7 @@ file_line { 'Deny Password Auth':
   replace            => true,
   append_on_no_match => true
 }
+
 # Regex match explanation
 #
 # ^       beginning of the line
